@@ -17,6 +17,7 @@ This is a feature-rich, menu-driven Hybrid Calculator built using **C++** and **
 
 ## 📂 Project Structure
 
+```
 Hybrid Calculator/
 │
 ├── Basic Calculator/
@@ -49,3 +50,4 @@ Hybrid Calculator/
 ├── History.txt
 ├── .gitignore
 └── README.md
+```
